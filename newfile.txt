@@ -1,1 +1,4 @@
 newfile contents here
+
+abcd
+efgh
